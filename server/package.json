@@ -30,7 +30,7 @@
     "@google-cloud/bigquery": "^5.10.0",
     "@google-cloud/datastore": "^6.6.2",
     "@google-cloud/pubsub": "^2.18.5",
-    "@google-cloud/secret-manager": "^3.10.1",
+    "@google-cloud/secret-manager": "^3.12.0",
     "@google-cloud/storage": "^5.18.1",
     "@sendgrid/mail": "^7.6.0",
     "@sentry/node": "^6.17.4",
